@@ -211,10 +211,6 @@
 		{
 			"Name": "VariantManagerContent",
 			"Enabled": false
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
